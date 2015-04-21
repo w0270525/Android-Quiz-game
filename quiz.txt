@@ -1,0 +1,10 @@
+app; The library where components such as Activity and AlertDialog are defined
+util; The library where components such as Random and List are defined
+widget; The library where components such as Button and TextView are defined
+view; The library where components such as OnClickListener are defined
+manifest; A file describing the contents, permissions and other attributes of an Android application package
+SDK; This includes tools developers use to create applications for Android OS based phones, and other devices
+user; If there are multiple components that can perform an action described by the intent, then this selects selects which one to use. 
+intent; You can use these to start activities, services, and broadcast receivers. 
+hash table or hash map; This is a data structure that maps identifying values, known as keys, to associated values. 
+anonymous inner; In object-oriented programming (OOP), this is a class declared entirely within the body of another class or interface. Often use for UI event handling

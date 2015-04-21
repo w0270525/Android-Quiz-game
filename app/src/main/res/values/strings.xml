@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment2Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtWelcome">Welcome to the Quiz!</string>
+
+    <string name="nameHint">Enter your name</string>
+    <string name="btnQuizStart">Start the Quiz!</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="titleQuestion">Question </string>
+    <string name="questionNumber" />
+    <string name="txtCurrentQuestion" />
+    <string name="btnA" />
+    <string name="btnB" />
+    <string name="btnC" />
+    <string name="btnD" />
+    <string name="currentQuestion" />
+    <string name="editName" />
+    <string name="txtScore">Score:</string>
+
+</resources>
